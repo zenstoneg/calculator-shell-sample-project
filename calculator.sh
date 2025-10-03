@@ -2,7 +2,7 @@
 #addition
 
 
-x+y=c
+x+y=o
 #test
 
 #division
