@@ -1,8 +1,7 @@
 #!bin/bash
 #addition
 
-
-x+y=c
+x+y=z
 #test
 
 #division
